@@ -47,7 +47,8 @@ sidebar:
         - item: Cooking
           link:
 
-        - item: Go (the board game alphaGo designed for)
+        - item: Go 
+                (the board game alphaGo designed for)
           link:
 
         - item: Gaming
@@ -90,16 +91,27 @@ experiences:
             Worked on the production of F-18 Aileron parts and Boeing 787 Emergency Escape Door parts
           
             -3D manufacture model editing/tooling in CATIA
+            
             -Material and structural force analysis in CATIA
+            
             -CATIA & Smarteam database system management
+            
             -Physical structural test and modification in manufacturing
+            
             -Draft plans to improve work process efficiency by applying 5S & KAIZEN principles
+            
             -Communicate with, help, support, and supervise machine operators, assemblers, etc
+            
             -Creating well-formatted assembly data sheets, parts lists, and other engineering documents
+            
             -Communication with customers and suppliers through phone, email, and meetings
+            
             -Automated Excel macro (VBA) script development & maintenance 
+            
             -Draft QA plans and overlooks QA processes, ensure traceable testing procedures
+            
             -Creating well-formatted and well-informed QA result reports
+            
        
       - role: Assitant to CEO
         time: 2019 - 2020
@@ -108,14 +120,23 @@ experiences:
           A multi-role position that was responsible from office works, business partner and government communication, and 
           company website maintenance.
             -Frontend: website update and maintenance
+            
             -Land development reports for CEO and local mayors
+            
             -Meeting preparation, recording, and reports
+            
             -Meeting and document translation
+            
             -Agreement drafting and editing
+            
             -Communication with city hall on development plans
+            
             -Engineering projects update and presentation
+            
             -Business trip and meeting scheduling
+            
             -General office management
+            
 
 projects:
     title: Projects
@@ -139,10 +160,10 @@ skills:
 
     toolset:
       - name: Industrial 3D modeling software (Catia, Solidworks)
-        level: Moderate
+        level: 50%
 
       - name: Javascript, HTML5, CSS, C++
-        level: Moderate 
+        level: 50% 
 
 
 
