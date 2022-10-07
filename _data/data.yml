@@ -83,7 +83,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Junior Mechanical Engineer
+       role: Junior Mechanical Engineer
         time: 2018
         company: Avcorp, Surrey, B.C. Canada
         details: |
@@ -101,7 +101,7 @@ experiences:
             -Draft QA plans and overlooks QA processes, ensure traceable testing procedures
             -Creating well-formatted and well-informed QA result reports
        
-       - role: Assitant to CEO
+        role: Assitant to CEO
         time: 2019
         company: Carpere Real Estates, Richmond, B.C. Canada
         details: |
